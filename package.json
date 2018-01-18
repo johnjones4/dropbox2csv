@@ -1,0 +1,24 @@
+{
+  "name": "dropbox2csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjones4/dropbox2csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjones4/dropbox2csv/issues"
+  },
+  "homepage": "https://github.com/johnjones4/dropbox2csv#readme",
+  "dependencies": {
+    "csv-stringify": "^2.0.1",
+    "dropbox": "^2.5.13",
+    "minimist": "^1.2.0"
+  }
+}
